@@ -1,0 +1,72 @@
+graduate            研究生;毕业
+silos               粮仓  
+unambiguous         不含糊 
+phrase              短语 
+regexp              正则
+aliase              别名
+collaborate         合作  
+amend               修改
+diverge             分歧
+demonstrate         证明
+skeleton            骨骼
+parlance            说法；用语
+intergraty           正直
+bless               祝福
+snapnots            快照
+kernel              核心；内核
+
+
+subscribe           订阅
+pros                优点
+extraneous          外来的
+mounted             安装的
+catastrophic        灾难的
+distinct            明显
+maintaining         维护
+hassle              困难
+reliable            可信的
+
+
+
+recursive       递归的
+subtle          精妙的
+daemon          守护进程
+telnet          远程登录
+restrict        限制
+outfit          装束；装备
+compact         紧凑；合同
+encrypted       编码
+sophisticate    复杂的
+authentication  证明
+
+
+
+omnibus           公交车
+hood            
+assist          辅助
+prune           删除
+odds            概率
+mutate          突变
+nautilus        鹦鹉螺
+forum           论坛
+paralleling     并联
+lottery         抽奖
+backend         后台
+repetition      重复
+spicy           辛辣
+comprehand      理解
+compress        压缩
+reject          反射
+registry        登记处
+catastrophic    冒险
+
+
+
+asynchronous    
+potentially     容忍
+expose
+underway
+malicious
+literals
+comma
+cascading      串联
