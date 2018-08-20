@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Error",
+				"ErrorConst"
+			],
+			[
+				"is_o",
+				"is_object"
+			],
+			[
+				"Err",
+				"ErrorObject"
+			],
+			[
+				"init",
+				"initialize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 65.0,
+		"history":
+		[
+			"ff",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/GitHub/pure_practice",
+		"/G/GitHub/pure_practice/codeStyle",
+		"/G/GitHub/pure_practice/module",
+		"/G/GitHub/pure_practice/postman"
+	],
+	"file_history":
+	[
+		"/G/GitHub/pure_practice/module/log.js",
+		"/G/GitHub/pure_practice/module/finish_03.txt",
+		"/G/GitHub/pure_practice/module/finish_04.txt",
+		"/G/GitHub/pure_practice/module/finish_06.txt",
+		"/C/Users/Administrator/Desktop/GitSync.bat",
+		"/G/GitHub/pure_practice/module/finish_05.txt",
+		"/G/GitHub/pure_practice/module/unstaged02.txt",
+		"/F/WildestDreams-Release/src/GameLogic/3rd/SZ_Submit.ts",
+		"/C/Users/Administrator/Desktop/1534495219(1).jpg",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/G/GitHub/GameWeb/Server/container/ServerData.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/F/WildestDreams-Common/Output/Network/Packet/SZ_GM.cs",
+		"/G/GitHub/GameWeb/Server/distribute.php",
+		"/G/GitHub/GameWeb/GaneWeb.sublime-project",
+		"/C/Users/Administrator/.gitconfig",
+		"/C/Program Files/Git/cmd/git-difftool-diffmerge-wrapper.sh",
+		"/D/install/File/2018-07/FileServer/FileServer/FileServer.go",
+		"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Bookmarks",
+		"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Bookmarks.bak",
+		"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Extensions/dbfmnekepjoapopniengjbcpnbljalfg/6.11.29_0/app/bookmarks/bookmarks.js",
+		"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Extensions/dbfmnekepjoapopniengjbcpnbljalfg/6.11.29_0/app/bookmarks/bookmarks.html",
+		"/G/GitHub/GameWeb/Server/element/ErrorObject.php",
+		"/G/GitHub/GameWeb/Server/base/GM_Result.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Program Files/Git/cmd/git-mergetool-diffmerge-wrapper.sh",
+		"/F/WildestDreams-Common/Output/Network/serverlist.json",
+		"//localhost/C$/@GMT-2018.07.19-01.43.07/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Bookmarks.bak",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Windows/php.ini",
+		"/D/Program Files/php7.0/php.ini-development",
+		"/D/Program Files/php7.0/php.ini-production",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+		"/C/Users/Administrator/AppData/Local/Temp/zend_debug/session2144767822963617784.tmp/php.ini",
+		"/G/GitHub/GameWeb/Server/static/AppConst.php",
+		"/G/GitHub/GameWeb/Server/static/AppRegistry.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/G/GitHub/GameWeb/Server/static/AppScriptLoader.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/phpfmt/Default.sublime-keymap",
+		"/G/GitHub/GameWeb/Server/static/Util.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/G/GitHub/GameWeb/Server/config/cmd.json",
+		"/G/GitHub/GameWeb/Server/base/GM_CMDHandler.php",
+		"/F/WildestDreams-Common/Output/Network/Packet/User.cs",
+		"/G/GitHub/GameWeb/Server/GM_Entrance.php",
+		"/C/wamp/bin/php/php5.3.0/php.ini",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/G/GitHub/GameWeb/Server/1.log",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 64.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pure_practice.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

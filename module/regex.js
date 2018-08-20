@@ -3,14 +3,15 @@
 
 /*
     有则输出所有，没有则return
+    /
 */
 
 function regexTest() {
     //正则快捷键 :最后一个字符的修饰符
-    let rstr1 = 'ab*'; //表示a后面跟着0或若干个b
-    let rstr2 = 'ab+'//表示a后面至少要有一个b
-    let rstr3 = 'ab?';//表示a后面跟0个或者一个b
-    let rstr4 = 'a?b+$';//表示【0~n】个a+【1~n】个b在末尾
+    let rstr1 = 'ab*'; //表示a后面跟着0或若干个b【b>=0】,0++个
+    let rstr2 = 'ab+'//表示a后面至少要有一个【b>0】，1++个
+    let rstr3 = 'ab?';//表示a后面跟0个或者一个b【b->0/1】,可能有可能没有
+    let rstr4 = 'a?b+$';//表示【0/1】个a+【1~n】个b在末尾
 
     //* -> {0,} + -> {1,} ? -> {0,1}
 
@@ -21,9 +22,10 @@ function regexTest() {
     let rstr8 = 'asdf.*sdfg'//中间有任意字符
     let rstr9 = '^.{3}$' //全字匹配
     let rstr10 = '[a-d]'//代表一个字符
-    let rstr11 = '[^a-zA-Z]'//代码一个不希望出现的字符
+    let rstr11 = '[^a-zA-Z]'//代表一个不希望出现的字符
     let srcStr = "abfffc";
-
+    //非打印字符
+    let cc = "\n,\t";
 
 
     let matchRet = srcStr.match(rstr8);

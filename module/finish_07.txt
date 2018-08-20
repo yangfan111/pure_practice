@@ -1,0 +1,40 @@
+shrine			 圣地
+spans			 跨度
+participate		 参与
+peer 			 凝视
+dedicate 		 致力于 
+recipe			 食谱
+hump			 驼峰
+rusty			 生锈的
+orient 			 东方
+weed			 野草
+anonymous		 匿名
+prerequisite	 首要条件
+obscure 		 昏暗的
+spots			 斑点
+apparel			 穿衣
+grab			 攫取
+poster			 海报
+clumsy			 笨拙
+sack			 麻袋
+trampoline		 蹦床
+caveat			 警告
+arithmetic		 算法
+inference		 推理
+verbose		     冗长
+
+
+
+indent			意图
+profiler	    
+repository		存储室
+penetrate		渗入
+jitter			情景
+negative		负数；否定
+gestures		手势
+stumble			踌躇
+puzzle			谜题
+gradient		梯形
+liberty			自由
+infinate	    无限
+submit			提交；服从

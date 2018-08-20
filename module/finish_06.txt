@@ -1,0 +1,30 @@
+puff 					喘息
+appropriate				接近
+frustum					锥形
+sensitive				敏感
+elasticity				弹性的
+sibing					姐妹
+assign					赋值
+traditional				传统的
+sufficient				充足的
+precision				精度
+antialiasing 			
+overlay					覆盖
+sincerity				安静
+sole					
+indicate				表明
+placeholder				占位符
+period					周期
+initiate				发起
+reveal					揭露
+inflate					膨胀
+slightly				轻微的
+deprecate				反对
+wrap					包裹..
+typo					打字
+perspective				观点
+valicate				证实
+pattern					模式
+compose					组成
+underscore				底线					
+emulator				模拟器

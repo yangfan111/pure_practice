@@ -1,7 +1,7 @@
 i         不透明
 terminology     术语
 interpret       解释
-crutial         重要
+crucial         重要
 opaque          透明
 complicate      复杂的
 flattern        击败
@@ -48,14 +48,6 @@ ommit           省略
 absence          缺乏
 
 
-
-precade         领先
-entity          
-
-aggregate     集合体
-conflict       冲突
-proto           原先
-philosopher     
 
 
 
