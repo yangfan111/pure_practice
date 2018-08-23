@@ -1,0 +1,38 @@
+frequency							频率		
+assertion							断言		
+stick 								刺
+gap									空隙
+cursor								光标
+intersect							相交
+floats								漂浮
+individual							个体的
+straight							笔直的
+tunnel								隧道
+mass								块；团
+crash								坠落
+feedback							反馈
+finalize							最终确定
+integrated							一体化；集成
+tangent								切线
+efficient							有 效的
+semantics							语义
+ conclusion							结论
+exact								精确地
+interpolate							插值
+substract							减去
+obtain								获得
+gray								灰色
+figure								数字；计算v
+
+accurate							精确的
+ambient								外在的；周围环境
+exponential							指数的
+visualize							形象化
+primitive							原始的
+variation							变化
+luminance							亮度
+qualifier							限定词
+expression							表现
+clarify								澄清
+compile								编译
+

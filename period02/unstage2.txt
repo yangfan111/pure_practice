@@ -1,0 +1,28 @@
+diagnostics												诊断学
+gloss													光彩
+bounce  												弹力
+geometry 												几何学
+harmonic 												和声的
+intensity												强度
+matrices 												矩阵
+frag 													蓄意伤害
+elapse													消失
+bake
+employ													采用
+margin													边缘
+motivate												动机
+massively												大量的
+emission												 												发射
+colony													殖民地
+familiar												常客
+cull													精选
+allocator												分配符
+ergodic 												遍历性
+concept													概念							
+automatic												自动化							
+infeasible							 					不可实行							
+approach 												方法；接近 ==>
+fragment 												碎片
+multiply 												增加
+
+

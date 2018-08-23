@@ -14,12 +14,12 @@ obscure 		 昏暗的
 spots			 斑点
 apparel			 穿衣
 grab			 攫取
-poster			 海报
+poster			 
 clumsy			 笨拙
 sack			 麻袋
 trampoline		 蹦床
 caveat			 警告
-arithmetic		 算法
+
 inference		 推理
 verbose		     冗长
 
@@ -29,12 +29,13 @@ indent			意图
 profiler	    
 repository		存储室
 penetrate		渗入
-jitter			情景
 negative		负数；否定
 gestures		手势
-stumble			踌躇
 puzzle			谜题
 gradient		梯形
 liberty			自由
-infinate	    无限
 submit			提交；服从
+infinate	    无限
+jitter			情景
+stumble			踌躇
+arithmetic		 算法

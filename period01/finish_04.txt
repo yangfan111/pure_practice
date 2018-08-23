@@ -1,38 +1,38 @@
+aggregate     			集合体z
+malicious           	恶毒z
+fragile					易碎的z
+delve					洞穴；研究z
+humiliate				丢脸z
+pension					退休金z
+utter					十足的wz
+fatigue					疲惫z
+lucrative				有利可图的z
 precede         		领先
 entity          
-aggregate     			集合体
-conflict       			冲突
 proto           		原先
 philosopher     
 bishop			
 finance				
-fragile					易碎的
 simplify				简单的
-deploy
-delve					洞穴；研究
+dervive
 present					呈现；现在
 stencil					漏字板
-fatigue					疲惫
 squander 				浪费
-pension					退休金
 oblige					迫使 
 
 
 
-humiliate				丢脸
 complaint				诉苦
-utter					十足的w
 organist
 burdensome			
 axiety					焦虑
 resort
 compel
 prodigy					奇迹
-lucrative			
 exploit					利用
 brutal					残忍的
 domestic				国内的
-devoid					缺乏x
+devoid					缺乏xz
 widow
 maidservant
 drunkard
@@ -53,7 +53,6 @@ mecianim
 audience			
 segment				段落
 analytics			分析学
-unfix				脱下
+unfix				脱下z
 instant				立即
-depression			抑郁
-domain				领域
+domain				领域 z
