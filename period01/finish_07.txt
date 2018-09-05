@@ -35,6 +35,8 @@ puzzle			谜题
 gradient		梯形
 liberty			自由
 submit			提交；服从
+
+
 infinate	    无限
 jitter			情景
 stumble			踌躇

@@ -1,36 +1,40 @@
 ﻿	/**
-	 * 重点
+	 * 重点&辨析
 	 */
-		complicate      复杂的
+
 		accurate
-		correspond
-		intuitive
-		invocation 祈祷
-		prerequisite 先决条件
-		appropriate	适当的
-		grab		攫取
-		strap		捆绑
-		exploit		开发
-		sophisticate
-		comprise
-		lucrative	有利可图的
-		semantic
-		sensitive
-		humble
-		humiliate
-		integrated
+
+	
+		invocation 				祈祷
+		prerequisite 			先决条件
+
+		
+
+		exploit					开发;利用
+		inspect					检查
+
+
+		grab					攫取
+		strap					捆绑
+
+		comprise	
+		lucrative				有利可图的
+
+					
+		prone					倾向
+		prune					减少	
 		gap
-		extraneous
-		intergraty	正直的
-		pluggable   可插入的
-		interpret
+		extraneous				外来的
+		 
+		pluggable   			可插入的
+		interpret				解释	
 		clarify
-		crucial
-		reveal
+		crucial	
+		reveal						显示
 		antialiasing
-		jitter	 情景的
-		stumble	踌躇
-		fingertips				唾手可得
+		jitter	 					情景的
+		stumble						踌躇
+		fingertips					唾手可得
 		pallet
 compile
 expression

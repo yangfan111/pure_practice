@@ -1,16 +1,16 @@
 
 comprehand      	理解
 collaborate         合作  
+intergraty          正直
 diverge             分歧
 amend               修改
-intergraty          正直
 extraneous          外来的
 hassle              困难
 compact         	紧凑；合同
 sophisticate    	复杂的
-recursive       递归的
-subtle          精妙的
-
+recursive       	递归的
+subtle          	精妙的
+distinct            明显
 
 graduate            研究生;毕业
 silos               粮仓  
@@ -30,7 +30,7 @@ subscribe           订阅
 pros                优点
 mounted             安装的
 
-distinct            明显
+
 maintaining         维护
 reliable            可信的
 
@@ -53,7 +53,7 @@ assist          辅助
 prune           删除
 odds            概率
 mutate          突变
-nautilus        鹦鹉螺
+nautilus        鹦鹉螺 
 forum           论坛
 paralleling     并联
 backend         后台
