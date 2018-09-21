@@ -1,15 +1,15 @@
 
 PARTI
 altitude/s ‘?ltitju:d/ n.高，高度；高处
-alloy/ ‘?l?i, ?’l?i/ n.合金；(金属的)成色
-aluminium/ ?lju’minj?m/ n.铝
-acquaintance/ ?’kweint?ns/ n.认识；了解；熟人
+	alloy/ ‘?l?i, ?’l?i/ n.合金；(金属的)成色
+	aluminium/ ?lju’minj?m/ n.铝
+	acquaintance/ ?’kweint?ns/ n.认识；了解；熟人
 acquire / ?’kwai?/ vt.取得；获得；学到
 adequate/ ‘?dikwit/ a.足够的；可以胜任的
 advisable/ ?d’vaiz?bl/ n.明智的；可取的
 apart/ ?’pa:t/ ad.相隔；分开；除去
 affection/ ?’fek??n/ n.慈爱，爱；爱慕
-ambulance/ ‘?mbjul?ns/ n.救护车；野战医院
+	ambulance/ ‘?mbjul?ns/ n.救护车；野战医院
 amongst/ ?’mΛ?st/ prep在…之中(=among)
 amuse/ ?’mju:z/ vt.逗…乐；给…娱乐
 ancestor/ ‘?nsist?/ n.祖宗，祖先
@@ -25,13 +25,13 @@ approval/ ?’pru:v?l/ n.赞成，同意；批准z
 approve/ ?’pru:v/ vt.赞成，称许；批准z
 appreciate/ ?’pri:?ieit/ vt.欣赏；领会；感谢z
 approximate/ ?’pr?ksimit/ a.近似的 vt.近似z
-arbitrary/ ‘a:bitr?ri/ a.专制的
+	arbitrary/ ‘a:bitr?ri/ a.专制的
 argue/ ‘a:gju:/ vi.争论，争辩，辩论
 arise/ ?’raiz/ vi.出现；  由…引起
 arouse/ ?’rauz/ vt.引起，唤起；唤醒
 afterward/ ‘a:ft?w?d(z)/ ad.后来，以后
-anxious/ ‘??k??s/ a.忧虑的；渴望的
-anxiety			  adj.
+	anxious/ ‘??k??s/ a.忧虑的；渴望的
+	anxiety			  adj.
 
 in accordance with/ ?’k?r:d?ns/ 与。。一致
 arithmetic/ ?’riθm?tik/ n.算术，四则运算
@@ -40,32 +40,33 @@ artistic/ a:’tistik/ a.艺术的；艺术家的
 ash/ ??/ n.灰，灰末；骨灰
 ashamed/ ?’?eimd/ a.惭愧(的)；羞耻(的)
 assemble/ ?’sembl/ vt.集合，召集；装配
-assembly/ ?’sembli/ n.集会
+assembly/ ?’sembli/ n.议会；集会
 accommodate/ ?’k?m?deit/ vt.容纳；供应，供给
 accommodation/ ?,k?m?’dei??n/ n.住处
 assess/ ?’ses/ vt.对(财产等)估价
 apparatus/ ,?p?’reit?s/ n.器械，仪器；器官z
+ash 	灰尘
 
 
 PARTII
 aggressive/ ?’gresiv/ a.侵略的；好斗的
 aggregate 	总共
-associate/ ?’s?u?ieit/ vi.交往 n.伙伴，同事
-association/ ?s?usi’ei??n/ n.协会，团体；联合
+	associate/ ?’s?u?ieit/ vi.交往 n.伙伴，同事
+	association/ ?s?usi’ei??n/ n.协会，团体；联合
 astonish/ ?s’t?ni?/ vt.使惊讶，使吃惊
 atom/ ‘?t?m/ n.原子；微粒；微量
 atomic/ ?’t?mik/ a.原子的；原子能的
-attain/’tein/ vt.获得，完成
+	attain/’tein/ vt.获得，完成
 automobile/ ‘?:t?m?bi:l/ n.汽车，机动车
-authority/ ?:’θ?riti/ n.权力;当局，官方；
-attend/ ?’tend/ vt.出席；照顾，护理
-Atlantic/ ?t’l?ntik/ a.大西洋的 n.大西洋
-auxiliary/ ?:g’zilj?ri/ a.辅助的；附属的
+	authority/ ?:’θ?riti/ n.权力;当局，官方；
+	attend/ ?’tend/ vt.出席；照顾，护理
+	Atlantic/ ?t’l?ntik/ a.大西洋的 n.大西洋
+	auxiliary/ ?:g’zilj?ri/ a.辅助的；附属的
 avenue/ ‘?vinju:/ n.林荫道，道路；大街
-awful/ ‘?:ful/ a.令人不愉快的
-awkward/ ‘?:kw?d/ a.笨拙的；尴尬的
-astronaut/ ‘?st??un?:t/ n.宇宙航行员，宇航员
-ax/ ?ks/ n.斧子
+	awful/ ‘?:ful/ a.令人不愉快的
+	awkward/ ‘?:kw?d/ a.笨拙的；尴尬的
+	astronaut/ ‘?st??un?:t/ n.宇宙航行员，宇航员
+	ax/ ?ks/ n.斧子
 
 B
 backward/ ‘b?kw?d/ a.向后的；倒的 ad.倒
@@ -181,25 +182,17 @@ cabinet/ ‘k?binit/ n.橱，柜；内阁
 
 cable/ ‘keibl/ n.缆，索；电缆；电报
 
-cafe/ ‘k?fei, k?’fei/ n.咖啡馆；小餐厅
 
 cage/ keid?/ n.笼；鸟笼，囚笼
 
-cake/ keik/ n.饼，糕，蛋糕
 
-calculate/ ‘k?lkjuleit/ vt.计算；估计；计划
 
-calculator/ ‘k?lkjuleit?/ n.计算器，计算者
 
 calendar/ ‘k?lind?/ n. 日历，历书；历法
 
-call/ k?:l/ vt.把…叫做；叫，喊
 
-calm/ ka:m/ a.静的，平静的
 
-camel/ ‘k?m?l/ n.骆驼
 
-camera/ ‘k?m?r?/ n.照相机，摄影机
 
 camp/ k?mp/ n.野营，营地，兵营
 
@@ -207,15 +200,11 @@ campaign/ k?m’pein/ n.战役；运动
 
 campus/ ‘k?mp?s/ n.校园，学校场地
 
-can/ k?n/ aux.v.能，会，可能
 
-can/ k?n/ n.罐头，听头；容器
 
-Canadian/ k?’neidj?n/ a.加拿大的
 
 canal/ k?’n?l/ n.运河；沟渠；管
 
-cancel/ ‘k?ns?l/ vt.取消，撤消；删去
 
 cancer/ ‘k?ns?/ n.癌，癌症，肿瘤
 
@@ -235,19 +224,13 @@ captain/ ‘k?ptin/ n.陆军上尉；队长
 
 capture/ ‘k?pt??/ vt.捕获，俘获；夺得
 
-car/ ka:/ n.汽车，小汽车，轿车
 
 carbon/ ‘ka:b?n/ n.碳
 
-card/ ka:d/ n.卡，卡片，名片
 
-care/ ke?/ vi.关心，介意 n.小心
 
-career/ k?’ri?/ n.生涯，职业，经历
 
-careful/ ‘ke?ful/ a.仔细的；细致的
 
-careless/ ‘ke?lis/ a.粗心的，漫不经心的
 
 cargo/ ‘ka:g?u/ n.船货，货物
 
@@ -259,33 +242,25 @@ carriage/ ‘k?rid?/ n.客车厢；四轮马车
 
 carrier/ ‘k?ri?/ n.运输工具；运载工具
 
-carry/ ‘k?ri/ vt.携带；运载；传送
 
 cart/ ka:t/ n.二轮运货马车
 
-case/ keis/ n.情况；事实；病例
 
-case/ keis/ n.箱(子)，盒(子)，套
 
-cash/ k??/ n.现金，现款
 
 cassette/ ka:’set/ n.盒式录音带；盒子
 
-cast/ ka:st/ vt.投，扔，抛；浇铸
 
 castle/ ‘ka:sl/ n.城堡；巨大建筑物
 
 casual/ ‘k??ju?l/ a.偶然的；随便的
 
-cat/ k?t/ n.猫，猫科，猫皮
 
 catalog/ ‘k?t?l?g/ n.目录，目录册
 
-catch/ k?t?/ vt.捉住；赶上；领会
 
 cattle/ ‘k?tl/ n.牛；牲口，家畜
 
-cause/ k?:z/ n.原因，理由；事业
 
 cave/ keiv/ n.山洞，洞穴，窑洞
 
@@ -295,7 +270,6 @@ ceiling/ ‘si:li?/ n. 天花板，顶蓬
 
 celebrate/ ‘selibreit/ vt.庆祝；歌颂，赞美
 
-cell/ sel/ n.细胞；小房间
 
 cement/ si’ment/ n.水泥；胶泥 vt.粘结
 
@@ -303,21 +277,17 @@ cent/ sent/ n.分；分币；百
 
 centimetre/ ‘sentimi:t?/ n.公分，厘米
 
-central/ ‘sentr?l/ a.中心的；主要的
 
-centre/ ‘sent?/ n.中心；中枢 vt.集中
 
 century/ ‘sent?uri/ n.世纪，百年
 
 ceremony/ ‘serim?ni/ n.典礼，仪式；礼节
 
-certain/ ‘s?:t?n/ a.确实的；肯定的
 
 certainly/ ‘s?:t?nli/ ad.一定，必定；当然
 
 certificate/ s?’tifikit/ n.证书，证件，执照
 
-chain/ t?ein/ n.链，链条，项圈
 
 chair/ t?e?/ n.椅子；主席
 
