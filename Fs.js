@@ -11,3 +11,4 @@
 // }
 let myDate = new Date();
 console.log(myDate.toLocaleDateString()); //获取当前日期
+A
