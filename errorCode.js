@@ -12,3 +12,6 @@
 let strr = "dds__d_ffdsfg_dfsg"
 let b = strr.replace(/_/g,'!')
 console.log( b)
+
+
+
