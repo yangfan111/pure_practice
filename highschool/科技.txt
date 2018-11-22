@@ -1,37 +1,23 @@
-
-receive--
-
 attain	获得
+aggregate 
 acquire	取得 （成就）
 achieve 到达 （成就）
-
-sum --
-aggregate 
-start --
 boot
-check --
-verify
-transform--
-convert
-convey
-misc--
 blend
-convert
-resolve
-mount
-trash
-grant
-modify
-amount
-reveal
-prune
-validate
-deploy
-maintain
-inspect
-locale
-cipher
-expire
-subject
-sign
-cast
+ <headword>resolve</headword>
+  <headword>mount</headword>
+  <headword>trash</headword>
+  <headword>grant</headword>
+  <headword>deploy</headword>
+  <headword>maintain</headword>
+  <headword>inspect</headword>
+  <headword>locale</headword>
+  <headword>cipher</headword>
+  <headword>verify</headword>
+  <headword>subject</headword>
+  <headword>expire</headword>
+  <headword>validate</headword>
+   <headword>prune</headword>
+  <headword>reveal</headword>
+   <headword>amount</headword>
+   <headword>modify</headword>
