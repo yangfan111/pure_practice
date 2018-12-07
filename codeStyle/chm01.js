@@ -42,6 +42,8 @@ const obj = {
 function getKey(k) {
     return `keyNamed${k}`
 }
+
+
 //object-shorthand
 const walker = 'walker'
 const walkerObj = { walker, 'abc': 11 }
